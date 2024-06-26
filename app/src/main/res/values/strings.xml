@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MicOff</string>
+    <string name="turn_off_mic">Turn Off Mic</string>
+</resources>
